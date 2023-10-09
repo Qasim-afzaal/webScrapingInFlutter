@@ -1,3 +1,9 @@
+**Flutter Web scrapping**
+
+**Note**
+in This project lots of commented line.this code using some purpose thats why  i didn’t remove its help for you. also handledyanmic Scrapping using ChatGPT"
+Simpe add url Your Scrap data Extract in Logs
+
 "Flutter Web Scraping Project: This GitHub repository hosts a comprehensive Flutter application dedicated to dynamic web scraping. Utilizing the inAppWebView library and JavaScript evaluation, this project excels in data extraction from a wide range of popular websites, including e-commerce giants like Amazon and Zara.
 
 Key Features:
